@@ -27,9 +27,6 @@ This project analyzes job market data to identify trends in job roles, skills de
 - Salary trends vary by experience and location
 - Certain technical skills are consistently in demand
 
-## Dashboard Preview
-![Dashboard](05_Screenshots/dashboard_overview.png)
-
 ## Conclusion
 This project provides actionable insights into current job market trends and helps job seekers understand in-demand skills and roles.
 
