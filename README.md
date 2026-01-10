@@ -27,6 +27,15 @@ This project analyzes job market data to identify trends in job roles, skills de
 - Salary trends vary by experience and location
 - Certain technical skills are consistently in demand
 
+  ## 📊 Power BI Dashboard Preview
+
+### Dashboard – Page 1
+![Dashboard Page 1](screenshots/dashboard_page_1_overview.png)
+
+### Dashboard – Page 2
+![Dashboard Page 2](screenshots/dashboard_page_2_detailed.png)
+
+
 ## Conclusion
 This project provides actionable insights into current job market trends and helps job seekers understand in-demand skills and roles.
 
